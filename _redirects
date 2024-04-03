@@ -1,4 +1,20 @@
+# resume
+
+/resume https://drive.google.com/file/d/1n3S4BW9k6wXkMSlQz0Ta15v8tN3eiYfa/view
+
+/resume/se https://drive.google.com/file/d/1IlGo4a05y0bdpduNFYvUOLYvVaK2UdLp/view?usp=drive_link
+
+/r\* https://drive.google.com/file/d/1n3S4BW9k6wXkMSlQz0Ta15v8tN3eiYfa/view
+
 # socials
 
 /li https://www.linkedin.com/in/iamsaikat/
-/linkedin https://www.linkedin.com/in/arindam-lahiri
+/linkedin https://www.linkedin.com/in/iamsaikat/
+/tw https://twitter.com/Itsme_saikatdey
+/twitter https://twitter.com/Itsme_saikatdey
+/gh https://github.com/deysaikat04
+/github https://github.com/deysaikat04
+
+# fallback
+
+/\* https://www.linkedin.com/in/iamsaikat/
